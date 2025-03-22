@@ -1,0 +1,40 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Forty"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ea pariatur anim qui sint quis aliqua magna aliqua Lorem aute deserunt aliqua culpa sunt cupidatat. Minim magna esse nisi esse incididunt ut cillum eiusmod proident ipsum Lorem ad. In minim voluptate eiusmod culpa eu in labore cupidatat deserunt."
+						}
+					}
+				]
+			},
+			"button": {
+				"__TYPE__": "LinkContent",
+				"key": "1aeffcfb-d0fd-4343-be7c-fb2130dedcc6",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://prismic.io",
+					"text": "stick"
+				}
+			}
+		},
+		"items": []
+	}
+]
